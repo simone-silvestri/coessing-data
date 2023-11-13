@@ -1,0 +1,11 @@
+name = "Models"
+uuid = "9e8cae18-63c1-5223-a75c-80ca9d6e9a09"
+authors = ["Climate Modeling Alliance and contributors"]
+version = "0.1.0"
+
+[deps]
+DataDeps = "124859b0-ceae-595e-8997-d05f6a7a8dfe"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
